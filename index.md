@@ -1,42 +1,52 @@
-## INTERNSHIP REPORT ##
-**jyothi engineering collage**
-*we studiedt github and github respository how to link with a main group and create a report*
-![alt text](https://user-images.githubusercontent.com/132329900/235633911-c5e09dd4-0b40-4124-b879-3ff2454bec49.png)
-#introduction to embedded system#
+## Day 1 - 02-05-2023
 
-An embedded system is a computer system a combination of a computer processor, computer memory, and input/output peripheral devices that has a dedicated function within a larger mechanical or electronic system.
+# Inauguration
 
-#Embedded systems examples#
+![WhatsApp Image 2023-05-02 at 2 40 13 PM](https://user-images.githubusercontent.com/132332560/235627321-042a47d1-4c0d-4ce9-923f-2e7311f1cd4f.jpeg)
 
-Standalone embedded systems
-Digital cameras
 
-Digital watches
+**introduction to embedded system**
 
-Temperature measurement systems
+  An embedded system is a computer system a combination of a computer processor, computer memory, and input/output peripheral devices that has a dedicated function within a larger mechanical or electronic system.
+  
+  Embedded systems examples
+  
+  
+## Standalone embedded systems 	 	 	
+* Digital cameras
 
-Washing machines
+* Digital watches
 
-Network embedded systems
-Home security systems
+* Temperature measurement systems
 
-Point of sale (POS) systems
+* Washing machines	
 
-Automated teller machines (ATMs)
+## Network embedded systems
 
-Mobile embedded systems
-Cell phones
+* Home security systems
 
-Laptops
+* Point of sale (POS) systems
 
-Tablets
+* Automated teller machines (ATMs)
 
-Smartwatches
+## Mobile embedded systems
 
-Real-time embedded systems
-Self-driving vehicle controls
+* Cell phones
 
-Aircraft control systems
+* Laptops
 
-Medical devices and patient monitoring systems
+* Tablets
 
+* Smartwatches
+## Real-time embedded systems
+
+* Self-driving vehicle controls
+
+* Aircraft control systems
+
+* Medical devices and patient monitoring systems
+
+  
+  
+
+![DHCOM_Computer_On_Module_-_AM35x](https://user-images.githubusercontent.com/132332560/235626395-5d3e673b-f096-4a01-84b6-38f961f9f7ca.jpg)
